@@ -1,0 +1,764 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" slick-uniqueid="3" class="js"><head>
+<base href="http://localhost/R-E-L/index.php/en/">
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<meta name="generator" content="Joomla! - Open Source Content Management">
+	<title>Home</title>
+	<link href="/R-E-L/index.php/en/?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0">
+	<link href="/R-E-L/index.php/en/?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0">
+	<link href="http://localhost/R-E-L/index.php/en/component/search/?Itemid=101&amp;format=opensearch" rel="search" title="Search R-E-Learning" type="application/opensearchdescription+xml">
+	<link href="/R-E-L/templates/j51_renovate/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+	<link href="/R-E-L/media/plg_system_loginpopup/css/style.css" rel="stylesheet" type="text/css">
+	<link href="/R-E-L/media/mod_languages/css/template.css?ecde9461acdf295783790b9bbcd5e8dc" rel="stylesheet" type="text/css">
+	<link href="/R-E-L/modules/mod_j51slideshow/css/slideshow.css" rel="stylesheet" type="text/css">
+	<style type="text/css">
+
+	/* Set slideshow height/width */
+		.slideshowcontainer {
+			max-width:1100px;
+			max-height:638px;
+		}
+
+	/* Set slideshow border-radius*/
+		.slidesjs-container {
+			border: 0px solid #ffffff;
+			border-radius: 0px;
+		}
+
+	/* Navigation Position */
+	.slidesjs-pagination {
+		float: right;
+	}
+
+	/* Slideshow Spacing */
+	#container_spacer1 {
+	height:638px;
+}
+	#container_slideshow {
+		padding-top:160px;
+	}
+
+		.slideshowcontainer {
+			max-width:100%;
+		}
+		#container_slideshow .wrapper960 {
+			width:100%;
+		}
+		#body_bg {
+    		box-shadow: 0 -5px 20px rgba(0, 0, 0, 0.2);
+		}
+		.slidesjs-previous.slidesjs-navigation, .slidesjs-next.slidesjs-navigation {
+			margin-top: 45px;
+		}
+		#container_slideshow {
+			padding:0px;
+		}
+	
+		.slidesjs-previous.slidesjs-navigation, .slidesjs-next.slidesjs-navigation {
+			display:none;
+		}
+	
+		.slideshowcontainer {
+			max-height: 638px;
+		}
+		.slidesjs-pagination {
+			display:none;
+		}
+	
+	</style>
+	<script type="application/json" class="joomla-script-options loaded">{"csrf.token":"544334901fb901270692c3ca6ae342d7","system.paths":{"root":"\/R-E-L","base":"\/R-E-L"},"system.keepalive":{"interval":840000,"uri":"\/R-E-L\/index.php\/en\/component\/ajax\/?format=json"}}</script>
+	<script src="/R-E-L/media/system/js/core.js?ecde9461acdf295783790b9bbcd5e8dc" type="text/javascript"></script>
+	<!--[if lt IE 9]><script src="/R-E-L/media/system/js/polyfill.event.js?ecde9461acdf295783790b9bbcd5e8dc" type="text/javascript"></script><![endif]-->
+	<script src="/R-E-L/media/system/js/keepalive.js?ecde9461acdf295783790b9bbcd5e8dc" type="text/javascript"></script>
+	<script src="/R-E-L/media/jui/js/jquery.min.js?ecde9461acdf295783790b9bbcd5e8dc" type="text/javascript"></script>
+	<script src="/R-E-L/media/jui/js/jquery-noconflict.js?ecde9461acdf295783790b9bbcd5e8dc" type="text/javascript"></script>
+	<script src="/R-E-L/media/jui/js/jquery-migrate.min.js?ecde9461acdf295783790b9bbcd5e8dc" type="text/javascript"></script>
+	<script src="/R-E-L/media/plg_system_loginpopup/js/script.js" type="text/javascript"></script>
+	<script src="/R-E-L/media/system/js/caption.js?ecde9461acdf295783790b9bbcd5e8dc" type="text/javascript"></script>
+	<script src="/R-E-L/media/system/js/mootools-core.js?ecde9461acdf295783790b9bbcd5e8dc" type="text/javascript"></script>
+	<script src="/R-E-L/media/system/js/mootools-more.js?ecde9461acdf295783790b9bbcd5e8dc" type="text/javascript"></script>
+	<script src="/R-E-L/media/jui/js/bootstrap.min.js?ecde9461acdf295783790b9bbcd5e8dc" type="text/javascript"></script>
+	<!--[if lt IE 9]><script src="/R-E-L/media/system/js/html5fallback.js?ecde9461acdf295783790b9bbcd5e8dc" type="text/javascript"></script><![endif]-->
+	<script type="text/javascript">
+jQuery(document).ready(function() {
+	ExtStore.LoginPopup.offset_top	= 50;
+	jQuery('a[href="#login"], a[href="#logout"], a.login').click(function(event) {
+		ExtStore.LoginPopup.open();
+
+		event.stopPropagation();
+		event.preventDefault();
+	});
+
+	jQuery('#lp-overlay, .lp-close').click(function() {
+		ExtStore.LoginPopup.close();
+	});
+});jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});
+	</script>
+
+
+   
+
+<link rel="stylesheet" href="/R-E-L/templates/system/css/system.css" type="text/css">
+<link rel="stylesheet" href="/R-E-L/templates/j51_renovate/css/reset.css" type="text/css">
+<link rel="stylesheet" href="/R-E-L/templates/j51_renovate/css/bootstrap.css" type="text/css">
+<link rel="stylesheet" href="/R-E-L/templates/j51_renovate/css/typo.css" type="text/css">
+<link rel="stylesheet" href="/R-E-L/templates/j51_renovate/css/template.css" type="text/css">
+<link rel="stylesheet" href="/R-E-L/templates/j51_renovate/css/nexus.css" type="text/css">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link rel="stylesheet" href="/R-E-L/templates/j51_renovate/css/responsive-nav.css" type="text/css">
+<link rel="stylesheet" href="/R-E-L/templates/j51_renovate/css/responsive-nav-style.css" type="text/css">
+<link rel="stylesheet" href="/R-E-L/templates/j51_renovate/css/responsive.css" type="text/css">
+
+<style type="text/css">
+@media only screen and (min-width: 960px) and (max-width: 1080px) {
+.wrapper960, #header_items, #header, #logo, .hornavmenu {width:960px !important;}
+#logo {width:960px !important;}
+/* Hide default hornav menu */
+#hornav, .hornavmenu {display:none !important;}
+/* Show mobile hornav menu */
+.hornavmenumobile {display:inline; z-index: 99; }
+}
+</style>
+
+
+<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Coda">
+<style type="text/css">body{font-family:Coda }</style>
+
+<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Coda:300,400">
+<style type="text/css">h2{font-family:Coda; }</style>
+
+<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Coda:300,400">
+<style type="text/css">.module h3, .module_menu h3{font-family:Coda }</style>
+
+<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Coda">
+<style type="text/css">#hornav{font-family:Coda }</style>
+
+<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Bevan">
+<style type="text/css">h1.logo-text a{font-family:Bevan }</style>
+
+
+<style type="text/css">
+/*--Set Logo Image position and locate logo image file--*/ 
+h1.logo a {left:0px}
+h1.logo a {top:0px}
+
+h1.logo a {background: url(templates/<?php echo j51_renovate?>/images/logo.png) no-repeat; z-index:1;}
+
+/*--End Set Logo Image position and locate logo image file--*/ 
+
+/*--Body font size--*/
+body{font-size: 14px}
+
+/*--Text Colors for Module Heads and Article titles--*/ 
+body {color:#000000;}
+h2, h2 a:link, h2 a:visited {color: #444444 ; }
+.module h3, .module_menu h3, h3 {color: #666666 }
+a {color: #0f137d }
+
+/*--Text Colors for Logo and Slogan--*/ 
+h1.logo-text a {
+	color: #0f137d;
+}
+p.site-slogan {color: #000361 }
+
+/*--Hornav Ul text color and dropdown background color--*/
+#hornav ul li a  {color: #000000 }
+#subMenusContainer ul, #subMenusContainer ol{background-color: #ffffff }
+
+/*--Start Style Side Column and Content Layout Divs--*/
+/*--Get Side Column widths from Parameters--*/
+#sidecol_a {width: 25% }
+#sidecol_b {width: 25% }
+
+.maincontent {padding: 0 26px 0 0;}
+
+/*--Check and see what modules are toggled on/off then take away columns width, margin and border values from overall width*/
+
+/* Top margin adjustment */
+#body_bg {padding-top:0px;}
+
+/*Style Side Column A, Side Column B and Content Divs layout*/
+  
+	#sidecol_a {float:left;}
+	#sidecol_b {float:right;}
+	#content_remainder {float:left;}
+
+/*--End Style Side Column and Content Layout Divs--*/
+
+/*--Load Custom Css Styling--*/
+#container_main, #container_hornav_mobile, #container_top3_modules {
+background-color: rgba(245,245,245, 0.7 );
+border-bottom:5px solid #002699;}
+/* Wrapper Width */
+.wrapper960, #header {width: 1080px ;}
+
+
+
+
+/* Social Icons Colour */
+#socialmedia ul li a{background-position: 0px -40px;}
+
+/* Background Color */
+body, #body_bg, #container_top_modules {
+background-color: #0f137d;
+}
+
+/* Button Colour */
+.readmore a, input.button, ul.pagination li, li.pagenav-prev, li.pagenav-next, button, .j51-button a, .module .j51imagelinkhover .j51button a, .module_style-box .j51imagelinkhover .j51button a {
+	background-color: #e6e6e6;
+}
+.btn, .btn:hover, .btn-group.open .btn.dropdown-toggle, .input-append .add-on, .input-prepend .add-on, .pager.pagenav a, .btn-primary:hover, .btn-primary:active, .btn-primary.active, .btn-primary.disabled, .btn-primary[disabled] {
+	background-color: #e6e6e6;
+}
+
+/* Top-1# Module Background */
+#container_slideshow_modules  {
+	background-color: #ffffff;
+}
+
+/* Header Color */
+.js .selectnav {
+	background-color: #ffffff !important;
+}
+
+/* Hornav/Social Icons Background Color */
+#container_header_bg {
+	background-color:;
+}
+
+/* Mobile Tag Background */
+#nav-toggle {background-color:#0f137d;}
+
+/* Top Menu Border Colour */
+#container_header_bg {
+	-moz-box-shadow: 0 1px 3px rgba(0,0,0,.32), inset 0 4px 0 #0f137d; /* drop shadow and inner shadow */
+	-webkit-box-shadow: 0 1px 3px rgba(0,0,0,.32), inset 0 4px 0 #0f137d; /* drop shadow and inner shadow */
+	box-shadow: 0 1px 3px rgba(0,0,0,.32), inset 0 4px 0 #0f137d; /* drop shadow and inner shadow */
+}
+#hornav li > a:hover, #hornav li.active > a, a.mainMenuParentBtnFocused {
+	-moz-box-shadow:  inset 0 -10px 0 #0f137d; /* drop shadow and inner shadow */
+	-webkit-box-shadow: inset 0 -10px 0 #0f137d; /* drop shadow and inner shadow */
+	box-shadow: inset 0 -10px 0 #0f137d; /* drop shadow and inner shadow */
+}
+#container_header, #container_slideshow, #container_slideshow_modules {
+    border-bottom: 5px solid #0f137d;
+}
+
+/* Showcase Position Height */
+#container_spacer1 {
+	min-height: #0f137dpx;
+}
+
+/* Responsive Options */
+
+	
+	
+	
+	
+	
+	
+		
+		@media only screen and ( max-width: 767px ) {
+	.showcase {display:inline;}
+	.mobile_showcase {display:none;}
+	}
+		
+
+/* Custom Reponsive CSS */
+   
+   
+  
+
+/*-- Background Image --*/ 
+#body_bg {
+	background: url(/R-E-L/images/banners/pexels-photo-247819.jpeg) 50% 0% no-repeat fixed;
+}
+
+</style>
+
+ <!-- Content Background Colour -->
+
+ <style type="text/css"> 
+#container_main, 
+#container_hornav_mobile, #container_top3_modules {
+	background-color: #ffffff;
+	background-color: rgba(255,255,255, 1 );
+}
+
+ </style>
+
+ <!-- Top Menu Hover/Active Colour -->
+ <style type="text/css">
+#hornav a:after {
+	background: rgba(15,19,125, 1 );
+}
+ </style>
+
+<!-- Base Modules -->
+ <style type="text/css">
+#container_base, #container_copyright  {
+	background-color: rgba(255,255,255, 0.8 );
+}
+
+ </style>
+
+ <!-- #container_header background colour -->
+ <style type="text/css">
+#container_header {
+	background-color: rgba(255,255,255, 0.8 );
+}
+ </style>
+
+
+<!-- Hornav Responsive Menu -->
+<script type="text/javascript" src="/R-E-L/templates/j51_renovate/js/responsive-nav/responsive-nav.js" charset="utf-8"></script>
+
+<!-- Hornav Dropdown -->
+<script type="text/javascript" src="/R-E-L/templates/j51_renovate/js/dropdown.js" charset="utf-8"></script>
+<script type="text/javascript">
+window.addEvent('domready', function() {
+	var myMenu = new MenuMatic();
+});
+</script>
+
+<!--[if lte IE 7]>
+<style  type="text/css">
+#ie6msg{border:3px solid #eee;  background:#fff; padding:20px;color:#000; margin:100px auto; width: 600px;}
+#ie6msg h4{margin: 8px; padding:0;}
+#ie6msg p{margin: 8px; padding:0;}
+#ie6msg p a.getie7{font-weight:bold; color:#006;}
+#ie6msg p a.ie6expl{font-weight:bold; color:#006;}
+#body_bg {display:none;}
+</style>
+<div id="ie6msg">
+<h4>Did you know that your browser is out of date?</h4>
+      <p>The site you are visiting can only be viewed using a modern browser. Please upgrade your browser to increase safety and your browsing experience. We strongly recommend upgrading to either <a href="http://www.getfirefox.com/">Firefox</a>, <a href="http://www.opera.com/">Opera</a>, <a href="http://www.apple.com/safari/">Safari</a>, <a href="http://www.google.com/chrome">Google Chrome</a>, or a more recent version of <a href="http://www.microsoft.com/windows/downloads/ie/getitnow.mspx">Internet Explorer</a>.</p>
+<![endif]-->
+
+<!-- <link rel="stylesheet" href="http://basehold.it/28"> -->
+
+
+<style>#nav.opened{max-height:0px}</style></head>
+<body> 
+<div id="body_bg" data-type="background">
+	<div id="container_header" class="container"><div class="wrapper960">
+	<div id="header" class="block_holder"> 
+
+        <div id="socialmedia">
+                <ul id="navigation">
+                           
+                         
+                         
+                         
+                         
+                         
+                         
+                         
+                         
+                         
+                         
+                         
+                         
+                         
+                         
+                         
+                </ul>
+        </div>	
+        
+        <div id="logo">
+            <div class="logo_container">		
+                
+                <h1 class="logo-text"> <a href="/R-E-L/index.php" title=""><span>
+                  R-E-L                  </span></a> </h1>
+                    <p class="site-slogan">Responsive E-Learning</p>
+                            </div>
+        </div>
+        
+<div class="clear"></div>
+
+</div>	</div></div>
+
+	<div id="container_hornav" class="container"><div class="wrapper960">
+	<div id="hornavmenu" class="block_holder"> 
+
+        <div class="hornavmenu">
+                            <div id="hornav">
+                    
+<ul class="menu" id="moomenu">
+<li class="item-101 current active"><a href="/R-E-L/index.php/en/">Home</a></li><li class="item-102"><a href="/R-E-L/index.php/en/professors-assistants">Professors&amp;Assistants</a></li><li class="item-103"><a>Lectures</a>
+</li><li class="item-128 deeper parent"><a class="mainMenuParentBtn mainParentBtn">More</a>
+</li></ul>
+                </div>
+                    </div>
+
+        <div class="hornavmenumobile">
+            <a href="#" id="nav-toggle" aria-hidden="false">Menu</a><div id="nav" class="closed" aria-hidden="true" style="transition: max-height 800ms; position: absolute;">
+                
+<ul class="menu" id="mobile">
+<li class="item-101 current active"><a href="/R-E-L/index.php/en/">Home</a></li><li class="item-102"><a href="/R-E-L/index.php/en/professors-assistants">Professors&amp;Assistants</a></li><li class="item-103"><a>Lectures</a>
+</li><li class="item-128 deeper parent"><a>More</a>
+<ul><li class="item-124"><a href="/R-E-L/index.php/en/more2/register">Register</a></li><li class="item-112"><a href="#login">Login</a></li></ul></li></ul>
+            </div>
+        </div>
+     
+<div class="clear"></div>
+
+</div>	</div></div>
+
+
+
+	<div id="container_slideshow" class="container"><div class="wrapper960">
+	
+<div id="slideshow" class="block_holder">
+
+						<div class="showcase">
+					<div class="showcase_padding">
+						
+<div class="slideshowcontainer">
+		<div id="slides" style="overflow: hidden; display: block;">
+			
+				<div class="slidesjs-container" style="overflow: hidden; position: relative; width: 1169px; height: 678.02px;"><div class="slidesjs-control" style="position: relative; left: 0px; width: 1169px; height: 678.02px;"><img src="/R-E-L/images/slider/a.png" alt="a" class="slidesjs-slide" slidesjs-index="0" style="position: absolute; top: 0px; left: 0px; width: 100%; z-index: 10; backface-visibility: hidden; display: none;"><img src="/R-E-L/images/slider/b.png" alt="b" class="slidesjs-slide" slidesjs-index="1" style="position: absolute; top: 0px; left: 0px; width: 100%; z-index: 10; display: none; backface-visibility: hidden;"><img src="/R-E-L/images/slider/c.png" alt="c" class="slidesjs-slide" slidesjs-index="2" style="position: absolute; top: 0px; left: 0px; width: 100%; z-index: 10; display: block; backface-visibility: hidden;"><img src="/R-E-L/images/slider/d.png" alt="d" class="slidesjs-slide" slidesjs-index="3" style="position: absolute; top: 0px; left: 0px; width: 100%; z-index: 0; display: none; backface-visibility: hidden;"><img src="/R-E-L/images/slider/e.png" alt="e" class="slidesjs-slide" slidesjs-index="4" style="position: absolute; top: 0px; left: 0px; width: 100%; z-index: 0; display: none; backface-visibility: hidden;"><img src="/R-E-L/images/slider/f.png" alt="f" class="slidesjs-slide" slidesjs-index="5" style="position: absolute; top: 0px; left: -1169px; width: 100%; z-index: 0; display: block; backface-visibility: hidden;"></div></div>
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			<a class="slidesjs-previous slidesjs-navigation" href="#" title="Previous">Previous</a><a class="slidesjs-next slidesjs-navigation" href="#" title="Next">Next</a><a class="slidesjs-play slidesjs-navigation slidesjs-playing" href="#" title="Play" style="display: none;">Play</a><a class="slidesjs-stop slidesjs-navigation" href="#" title="Stop" style="display: inline;">Stop</a><ul class="slidesjs-pagination"><li class="slidesjs-pagination-item"><a href="#" data-slidesjs-item="0" class="">1</a></li><li class="slidesjs-pagination-item"><a href="#" data-slidesjs-item="1" class="">2</a></li><li class="slidesjs-pagination-item"><a href="#" data-slidesjs-item="2" class="active">3</a></li><li class="slidesjs-pagination-item"><a href="#" data-slidesjs-item="3">4</a></li><li class="slidesjs-pagination-item"><a href="#" data-slidesjs-item="4">5</a></li><li class="slidesjs-pagination-item"><a href="#" data-slidesjs-item="5">6</a></li></ul></div>
+</div>
+
+<!-- jQuery Toggle -->
+<!-- End jQuery Toggle -->
+
+<!-- SlidesJS Required: Link to jquery.slides.js -->
+<script type="text/javascript" src="/R-E-L/modules/mod_j51slideshow/js/jquery.slides.min.js"></script>
+<!-- End SlidesJS Required -->
+
+<!-- SlidesJS Required: Initialize SlidesJS with a jQuery doc ready -->
+<script type="text/javascript">
+jQuery.noConflict();
+jQuery(document).ready(function($) {
+
+    $(function() {
+      $('#slides').slidesjs({
+        width: 1100,
+        height: 638,
+        play: {
+	        active: true,
+	        effect: "fade",
+	        auto: true,
+	        interval: 4000,
+	        swap: true
+	    },
+		 // Fade Effect Toggle
+	        navigation: {
+	        	effect: "fade"
+	        },
+	        pagination: {
+	        	effect: "fade"
+	        },
+	        effect: {
+	        	fade: {
+	        	speed: 1000         	}
+		
+		
+        }
+      });
+    });
+
+});
+
+</script>
+<!-- End SlidesJS -->
+
+
+
+					</div>
+				</div>
+	
+				<div class="mobile_showcase">	
+					<div class="showcase_padding">			
+										</div>
+				</div>
+
+				
+
+<div class="clear"></div>
+</div>
+	</div></div>
+
+
+		<div id="container_slideshow_modules" class="container"><div class="wrapper960">
+	
+<div id="slideshow_modules" class="block_holder">
+
+<!-- <div id="slideshow_modules_inner" class="border_outer"> -->
+<!-- <div class="j51_border2"> -->
+
+    <div id="wrapper_top-1" class="block_holder_margin">
+         
+        <div class="top-1" style="width:100%;"><div class="module_margin">
+		<div class="module_">
+		<div class="module">
+			<div class="module_padding">
+								<div class="module_content">
+				
+
+<div class="custom">
+	<h1 style="text-align: center;"><span style="font-family: 'andale mono', monospace; color: #0f137d;"><strong>Welcome To R-E-Learning</strong></span></h1>
+<p style="text-align: center;"><span style="font-family: 'andale mono', monospace; color: #0f137d;">&nbsp;</span></p>
+<p style="text-align: center;"><span style="font-family: 'andale mono', monospace; color: #0f137d;">This Site Helps Students With Disabilities And Excuses For Attending Lectures Without Going To Univesity And Watching Lectures Directly Via Audio And Video</span></p></div>
+				</div> 
+			</div>
+		</div>
+		</div>
+	</div></div>                                                <div class="clear"></div>
+    </div>		
+    					
+
+</div>	</div></div>
+	
+	
+	<div id="container_main" class="container"><div class="wrapper960">
+	    
+
+<!--Setting up Layout for MainContent and Side Columns. Check to see if modules are enabled or disabled in the sidecolumns-->
+
+<div id="main" class="block_holder">
+
+<!--Side Columns Layout-->                          
+       
+    
+<!--End Side Columns Layout-->
+
+<!--Find Content width and show component area-->
+<div id="content_full" class="side_margins">
+
+<!--Modules ContentTop-->
+            
+<!--End Modules ContentTop-->
+
+    <div class="maincontent">
+            <div class="message">
+                                    <div id="system-message-container">
+	</div>
+
+                            </div>
+        <div class="blog-featured" itemscope="" itemtype="https://schema.org/Blog">
+
+
+
+
+</div>
+ <div class="clear"></div>
+    </div>
+
+<!--Modules ContentBottom-->
+            
+<!--End Modules ContentBottom-->
+
+</div>
+<div class="clear"></div>
+<!--End Content width and show component area-->
+           
+            
+
+</div>
+<div class="clear"></div>	</div></div>
+
+
+		<div id="container_bottom_modules" class="container"><div class="wrapper960">
+	
+
+    
+<div id="bottom_modules" class="block_holder">
+
+		<div id="wrapper_bottom-1" class="block_holder_margin">
+		 
+		<div class="bottom-1" style="width:100%;"><div class="module_margin">		<div class="module">
+						<div class="module_content">
+			
+
+<div class="custom">
+	<p><img src="/R-E-L/images/155.png" alt="" width="597" height="217"></p></div>
+			</div>
+		</div>
+	</div></div>											<div class="clear"></div>
+    </div>		
+    					
+				
+
+					
+</div>
+
+	</div></div>
+	
+	
+<div id="container_base" class="container"><div class="wrapper960">
+
+<div id="base" class="block_holder">
+
+										<div id="wrapper_base-1" class="block_holder_margin">
+						 
+						<div class="base-1" style="width:100%;"><div class="module_margin">
+		<div class="module_">
+		<div class="module">
+			<div class="module_padding">
+								<div class="module_content">
+				
+
+<div class="custom">
+	<h1 style="text-align: center;"><span style="font-family: 'andale mono', monospace; color: #000000;"><strong>Why Choose Responsive E-Learning</strong></span></h1>
+<p class="lead" style="text-align: center;"><span style="color: #000000; font-family: 'andale mono', monospace;"><strong>This Site Helps Students With Disabilities And Excuses For Attending Lectures Without Going To Univesity And Watching Lectures Directly Via Audio And Video</strong></span></p></div>
+				</div> 
+			</div>
+		</div>
+		</div>
+	</div></div>																															<div class="clear"></div>
+    </div>		
+    					
+				
+										<div id="wrapper_base-2" class="block_holder_margin">
+						 
+						<div class="base-2" style="width:33.3%;"><div class="module_margin">
+		<div class="module_">
+		<div class="module">
+			<div class="module_padding">
+								<div class="module_content">
+				
+
+<div class="custom">
+	<h1 class="media-heading" style="text-align: center;"><span style="font-family: 'andale mono', monospace; color: #0f137d;"><strong>Queries</strong></span></h1>
+<p style="text-align: center;"><span style="font-size: 10pt; color: #0f137d; font-family: 'andale mono', monospace;"><strong>Here you can inquiry about information in the annotated curriculum and respond by the teacher or professor of the university in the subject matter required to be asked.</strong></span></p></div>
+				</div> 
+			</div>
+		</div>
+		</div>
+	</div></div>												<div class="base-2" style="width:33.3%;"><div class="module_margin">
+		<div class="module_">
+		<div class="module">
+			<div class="module_padding">
+								<div class="module_content">
+				
+
+<div class="custom">
+	<h1 class="media-heading" style="text-align: center;"><span style="font-family: 'andale mono', monospace; color: #0f137d;"><strong>Sections</strong></span></h1>
+<h1 class="media-heading" style="text-align: center;"><span style="font-size: 10pt; color: #0f137d; font-family: 'andale mono', monospace;"><strong>The Video is Recorded Live and it does not follow live video after date of recording the live video is entered to the section of the files stored and continues the lecture.</strong></span></h1></div>
+				</div> 
+			</div>
+		</div>
+		</div>
+	</div></div>												<div class="base-2" style="width:33.3%;"><div class="module_margin">
+		<div class="module_">
+		<div class="module">
+			<div class="module_padding">
+								<div class="module_content">
+				
+
+<div class="custom">
+	<h1 class="media-heading" style="text-align: center;"><span style="font-family: 'andale mono', monospace; color: #0f137d;"><strong>Lectures</strong></span></h1>
+<p style="text-align: center;"><span style="color: #0f137d; font-family: 'andale mono', monospace;"><strong>The Video is Recorded Live and it does not follow live video after date of recording the live video is entered to the section of the files stored and continues the lecture.</strong></span></p></div>
+				</div> 
+			</div>
+		</div>
+		</div>
+	</div></div>																			<div class="clear"></div>
+    </div>		
+    					
+
+<div class="clear"></div>
+  
+	<div id="footer-2" class="block_holder_margin"><div class="module_margin">
+		
+		<div class="module_">
+		<div class="module">
+			<div class="module_padding">
+								<div class="module_content">
+				<div class="mod-languages">
+
+	<div class="btn-group">
+				<ul class="lang-block dropdown-menu" dir="ltr">
+				</ul>
+	</div>
+
+</div>
+				</div> 
+			</div>
+		</div>
+		</div>
+	
+		<div class="clear"></div>
+	</div></div>
+	
+<div class="clear"></div>
+</div>
+
+</div></div>
+
+<div id="container_copyright" class="container"><div class="wrapper960">
+
+				<div id="footermenu"><div class="module_margin">
+				 
+<ul class="menu">
+<li class="item-101 current active"><a href="/R-E-L/index.php/en/">Home</a></li><li class="item-102"><a href="/R-E-L/index.php/en/professors-assistants">Professors&amp;Assistants</a></li><li class="item-103"><a>Lectures</a>
+</li><li class="item-128 parent"><a>More</a>
+</li></ul>
+				 <div class="clear"></div>
+			</div></div>
+	
+	<div id="copyright" class="module_margin"><div class="block_holder_margin">
+		 <p>Responsive E-Learning © 2018 All Right Reserved</p>
+	</div></div>
+	
+<div class="clear"></div>
+</div></div>
+    <script type="text/javascript">
+      var navigation = responsiveNav("#nav", {
+        animate: true,        
+        transition: 800, 
+        label: "Menu",   
+        insert: "before",    
+
+      });
+    </script>
+</div>
+
+
+<div id="lp-overlay"></div>
+<div id="lp-popup" class="lp-wrapper">
+	
+	<button class="lp-close" type="button" title="Close (Esc)">×</button>
+
+	<form action="/R-E-L/index.php/en/" method="post" class="lp-form">
+		<h3>Sign in to your account</h3>
+		<div class="lp-field-wrapper">
+			<label for="lp-username">Student Code *</label>
+			<input type="text" id="lp-username" class="lp-input-text lp-input-username" name="username" placeholder="Student Code" required="true">
+		</div>
+		<div class="lp-field-wrapper">
+			<label for="lp-password">Password *</label>
+			<input type="password" id="lp-password" class="lp-input-text lp-input-password" name="password" placeholder="Password" required="true">
+		</div>
+
+		
+
+
+		<div class="lp-button-wrapper clearfix">
+			<div class="lp-left">
+				<button type="submit" class="lp-button">Log in</button>
+			</div>
+
+		</div>
+
+		<input type="hidden" name="option" value="com_users">
+		<input type="hidden" name="task" value="user.login">
+		<input type="hidden" name="return" value="aW5kZXgucGhwP0l0ZW1pZD0xMDE=">
+		<input type="hidden" name="544334901fb901270692c3ca6ae342d7" value="1">	</form>
+</div> 
+<div id="subMenusContainer"><div class="smOW"><ul style="margin-top: 0px;"><li class="item-124"><a href="/R-E-L/index.php/en/more2/register" tabindex="-1" class="subMenuBtn">Register</a></li><li class="item-112"><a href="#login" tabindex="-1" class="subMenuBtn">Login</a></li></ul></div></div></body></html>
